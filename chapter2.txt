@@ -1,1 +1,1 @@
-this is test 2 of my story
+this is test first edit of chapter 2 for branch test commit
